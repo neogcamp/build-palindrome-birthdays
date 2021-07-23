@@ -149,7 +149,7 @@ footer p {
 @media screen and (max-width: 1000px) {
   body {
     background: url(/images/top.svg) left top no-repeat;
-    background-size: 100% 13%;
+    background-size: 100% 16%;
     height: auto;
     overflow: auto;
   }
