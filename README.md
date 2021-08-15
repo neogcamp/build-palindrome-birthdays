@@ -3,6 +3,9 @@
 App which checks whether your birthday is a palindrome birthday & if not let's you the nearest palindrome date with how many days you have missed
 <br/>
 
+# Youtube Lesson
+[Link](https://youtu.be/8rqZ524NzaQ)
+
 # Problem Statement
 #### [**basics buildFour**](https://github.com/neogcamp/build/blob/main/basics/palindrome-birthdays.md)
 
